@@ -95,11 +95,11 @@
     background-repeat: no-repeat;
 }
 .item1{
-    background-image: url("../img/topbanner01.jpg");
+    background-image: url("../img/image1_mp.jpg");
     height: 100%;
 }
 .item2{
-    background-image: url("../img/topbanner02.jpg");
+    background-image: url("../img/topbanner01.jpg");
     height: 100%;
 }
 .item3{
