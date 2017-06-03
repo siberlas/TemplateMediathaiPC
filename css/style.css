@@ -1299,14 +1299,14 @@ hr {
     color: #313131;
 }
 /* Button Primary Yellow Alt */
-.btn.btn-default-alt-yellow {
-    border-color: #ffc527;
-    color: #ffc527;
+.btn.btn-default-alt-red {
+    border-color: #ff0000;
+    color: #ff0000;
     background-color: transparent;
 }
-.btn.btn-default-alt-yellow:hover {
-    background-color: #ffc527;
-    color: #313131;
+.btn.btn-default-alt-red:hover {
+    background-color: #ff0000;
+    color: #ff0000;
 }
 .btn.btn-xs {
     padding: 17px 20px;
